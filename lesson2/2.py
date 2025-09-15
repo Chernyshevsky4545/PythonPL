@@ -1,0 +1,6 @@
+a=int(input("a:"))
+b=int(input("b:"))
+c=int(input("c:"))
+d=a+b+c
+e=d/3
+print("середнє арифметичне 3 чисел:", e)
